@@ -9,6 +9,7 @@ SSH worm is a simple script that tries to brute-force its way into any machine o
 
 ### How to use ?
 There are a few libraries required to run the script, but they can all be installed using homebrew or pip.
+
 **Required libraries:** 
 - Python 
 - Netifaces
