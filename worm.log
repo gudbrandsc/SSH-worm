@@ -1,0 +1,79 @@
+INFO:root:Staring worm...
+INFO:root:['192.168.2.2']
+INFO:root:Available hosts are: ['192.168.2.2']
+INFO:root:Attacking Host : 192.168.2.2 
+INFO:root:[+] Trying to break in with username: admin password: admin 
+INFO:root:Failed...
+INFO:root:[+] Trying to break in with username: admin password: password 
+INFO:root:Failed...
+INFO:root:[+] Trying to break in with username: root password: toor 
+INFO:root:[+] Success ... username: root and passoword toor is VALID! 
+INFO:root:Staring worm...
+INFO:root:['192.168.2.2']
+INFO:root:Available hosts are: ['192.168.2.2']
+INFO:root:Attacking Host : 192.168.2.2 
+INFO:root:Trying with username: admin password: admin 
+INFO:root:Failed...
+INFO:root:Trying with username: admin password: password 
+INFO:root:Failed...
+INFO:root:Trying with username: root password: toor 
+INFO:root:Success ... username: root and passoword toor is VALID! 
+INFO:root:Staring worm...
+INFO:root:['192.168.2.2']
+INFO:root:Available hosts are: ['192.168.2.2']
+INFO:root:Attacking Host : 192.168.2.2 
+INFO:root:Trying with username: admin password: admin 
+INFO:root:Failed...
+INFO:root:Trying with username: admin password: password 
+INFO:root:Failed...
+INFO:root:Trying with username: root password: toor 
+INFO:root:Success ... username: root and passoword toor is VALID! 
+INFO:root:Created folder /tmp/worm
+INFO:root:Added replicator.py
+INFO:root:Added passwords.txt
+INFO:root:Installing python3-pip
+INFO:root:Finished installing python3-pip
+INFO:root:Installing paramiko
+INFO:root:Finished installing paramiko
+INFO:root:Installing netifaces
+INFO:root:Finished installing netifaces
+INFO:root:Staring worm...
+INFO:root:['192.168.2.2']
+INFO:root:Available hosts are: ['192.168.2.2']
+INFO:root:Attacking Host : 192.168.2.2 
+INFO:root:Trying with username: admin password: admin 
+INFO:root:Failed...
+INFO:root:Trying with username: admin password: password 
+INFO:root:Failed...
+INFO:root:Trying with username: root password: toor 
+INFO:root:Success ... username: root and passoword toor is VALID! 
+INFO:root:Created folder /tmp/worm
+INFO:root:Added replicator.py
+INFO:root:Added passwords.txt
+INFO:root:Installing python3-pip
+INFO:root:Finished installing python3-pip
+INFO:root:Installing paramiko
+INFO:root:Finished installing paramiko
+INFO:root:Installing netifaces
+INFO:root:Finished installing netifaces
+INFO:root:Done
+INFO:root:Staring worm...
+INFO:root:['192.168.2.2']
+INFO:root:Available hosts are: ['192.168.2.2']
+INFO:root:Attacking Host : 192.168.2.2 
+INFO:root:Trying with username: admin password: admin 
+INFO:root:Failed...
+INFO:root:Trying with username: admin password: password 
+INFO:root:Failed...
+INFO:root:Trying with username: root password: toor 
+INFO:root:Success ... username: root and passoword toor is VALID! 
+INFO:root:Created folder /tmp/worm
+INFO:root:Added replicator.py
+INFO:root:Added passwords.txt
+INFO:root:Installing python3-pip
+INFO:root:Finished installing python3-pip
+INFO:root:Installing paramiko
+INFO:root:Finished installing paramiko
+INFO:root:Installing netifaces
+INFO:root:Finished installing netifaces
+INFO:root:Done
